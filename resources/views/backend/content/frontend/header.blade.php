@@ -78,4 +78,11 @@
             </div>
         </div>
     </div>
+
+    <!-- File Manager -->
+    <script src="{{ asset('backend/assets/vendor/libs/jquery/jquery.js') }}"></script>
+    <script src="/vendor/laravel-filemanager/js/stand-alone-button-favicon.js"></script>
+    <script>
+        $('#lfm3').filemanager('file');
+    </script>
 @endsection

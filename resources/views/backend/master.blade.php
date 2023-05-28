@@ -166,11 +166,10 @@
         CKEDITOR.config.clipboard_handleImages = false
     </script>
 
-    <script src="/vendor/laravel-filemanager/js/stand-alone-button-favicon.js"></script>
+    <script src="/vendor/laravel-filemanager/js/stand-alone-button.js"></script>
     <script>
         $('#lfm').filemanager('file');
         $('#lfm2').filemanager('file');
-        $('#lfm3').filemanager('file');
     </script>
 
     <!-- Datatables -->

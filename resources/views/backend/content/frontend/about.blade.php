@@ -24,7 +24,7 @@
                                     <label for="firstName" class="form-label">About Image</label>
                                     <div class="input-group">
                                         <span class="input-group-btn">
-                                            <a id="lfm3" data-input="thumbnail2" data-preview="holder2"
+                                            <a id="lfm2" data-input="thumbnail2" data-preview="holder2"
                                                 class="btn btn-primary text-white">
                                                 <i class="ri-image-add-line"></i> Choose
                                             </a>
